@@ -12,6 +12,26 @@
 }
 .container{
     padding: 3cm;
+    background-color: rgb(192, 211, 218);
+}
+#appstore{
+ background-color: rgb(11, 11, 31);   
+ color: white;
+ width: 4cm;
+ height: 1.5cm;
+ border-radius: 10px;
+    
+}
+#apple{
+width: 0.5cm;
+height: 0.5cm;
+border-radius: 0.1cm;
+}
+#playstore{
+  border: 1px solid;  
+  width: 4cm;
+  height: 1.5cm;
+  border-radius: 10px;
 }
 
 .profiling{
@@ -103,10 +123,7 @@ margin-left: 2cm;
     height: 8cm;
     border-radius: 15px;
 }
-.platform{
-    
-    
-}
+
 #paid{
     width: 7cm;
     height:1.5cm;
@@ -279,7 +296,7 @@ height: 10cm;
 #blackwoman{
     width: 3cm;
     height: 3cm;
-    border-radius: 50px;
+    border-radius: 70px;
     
 }
 .angel{
@@ -300,13 +317,92 @@ height: 10cm;
 }
 #clients{
     text-align: center;
+    margin-top: 3cm;
+    font-size: 50px;
 }
-.business{
-    display: flex;
-    gap:4cm ;
+#left{
+ width: 12cm; 
+ height: 8cm; 
+ border: 1px solid;
+ padding: 1cm;
+ border-radius: 10px;
 }
 #star{
     font-weight: bolder;
     font-size: 20px;
     
+}
+#edwin{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.business{
+    display: flex;
+    gap:4cm ;
+
+}
+#profile-lady{
+    width: 3cm;
+    height: 3cm;
+    border-radius: 70px;
+}
+.right-profile{
+    display: flex;
+    gap: 4cm;
+}
+#five-star{
+    color: #e0be44;
+    
+}
+.left-right{
+    display: flex;
+    gap: 4cm;
+    margin-top: 2cm;
+}
+#avatar{
+    width: 13cm;
+    height: 13cm;
+}
+.avatars{
+    display: flex;
+    margin-top: 3cm;
+    gap: 4cm;
+}
+#over{
+    font-size: 30px;
+}
+.footer-all{
+    display: flex;
+    gap: 3cm;
+    background-color: rgb(18, 18, 46);
+    color: white;
+    padding-left: 3cm;
+    
+}
+#our{
+    font-size: 20px;
+}
+#top{
+    font-size: 20px;
+}
+#company{
+    font-size: 20px;
+}
+#resource{
+    font-size: 20px;  
+}
+.footer-all ul{
+    list-style-type: none;
+}
+.copyright{
+    display: flex;
+    gap: 5cm;
+    background-color: black;
+    color: white;
+    
+    height: 2cm;
+}
+.conditions{
+    display: flex;
+    gap: 3cm;
 }
