@@ -1,0 +1,312 @@
+
+#sign{
+    background-color: rgb(226, 141, 141);
+    border: none;
+    width: 3cm;
+    height: 1cm;
+    border-radius: 10px;
+}
+.fa-brands{
+    color:black;
+    
+}
+.container{
+    padding: 3cm;
+}
+
+.profiling{
+  display: flex;  
+  gap: 3cm;
+}
+.improvement{
+    display: flex;
+    gap: 4cm;
+    margin-top: 4cm;
+}
+.improvement-right{
+    border: 2px solid;
+    width: 13cm;
+    padding:1cm;
+    border-radius: 1cm;
+    rotate: -7deg;
+    margin-left: 4cm;
+}
+.upload{
+    display: flex;
+    gap: 1cm;
+    width: 6cm;
+    height: 2cm;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    padding: 0;
+}
+#speed{
+    border: 2px solid;
+    border-radius: 50px;
+    width: 1cm;
+    height: 1cm;
+    font-size: 20px;
+}
+.working{
+    display: flex;
+    margin-top:0.5cm;
+    gap: 2cm;
+}
+
+.navigation-bar{
+    display: flex;
+    gap: 4cm;
+}
+#feature{
+text-decoration: none;
+color: black;
+margin-left: 2cm;
+}
+#about{
+    text-decoration: none;
+    color: black;
+    margin-left: 2cm;
+}
+#product{
+    text-decoration: none;
+    color: black;
+    margin-left: 2cm;
+}
+#pricing{
+    text-decoration: none;
+    color: black;
+    margin-left: 2cm;
+}
+#feedback{
+    text-decoration: none;
+    color: black;
+    margin-left: 2cm;
+}
+#log-in{
+    text-decoration: none;
+    color: black;   
+}
+#sign{
+    margin-left: 2cm;
+}
+#fa-brands fa-google-play{
+    color:black;
+}
+#profile{
+    width: 2cm;
+    height: 2cm;
+    border-radius: 50px;
+    border: 5px solid rgb(206, 88, 107);
+}
+#picture{
+    width: 8cm;
+    height: 8cm;
+    border-radius: 15px;
+}
+.platform{
+    
+    
+}
+#paid{
+    width: 7cm;
+    height:1.5cm;
+    border-radius:0.6cm;
+    background-color: blue;
+    text-align: center;
+
+}
+.salary{
+    display: flex;
+    gap: 2cm;
+}
+.logos{
+     margin-top: 3cm;
+}
+.companies{
+    display: flex;
+    gap: 4cm;
+}
+#business{
+    text-align: center;
+}
+
+#microsoft{
+width: 1.5cm;
+height: 1.5cm;
+}
+#trello{
+    width: 1.1cm;
+    height:1.1cm;
+}
+#google{
+    width: 1.5cm;
+    height: 1cm;
+}
+#dropbox{
+    width: 1.2cm;
+    height: 1cm;
+}
+#slack{
+    width: 1.5cm;
+    height: 1.5cm;
+}
+.support-transfer{
+    display: flex;
+    gap: 3cm;  
+}
+
+.Interface{
+    margin-top: 4cm;
+}
+#product{
+    text-align: center;
+}
+.downloads{
+    display: flex;
+    gap: 2.5cm;
+}
+#giftbox{
+    width: 2cm;
+    height: 1cm;
+    border-radius: 10px;
+}
+#watch{
+    width: 3.5cm;
+    height: 1cm;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    margin-top: 1cm;
+}
+.lorem-ipsum{
+  margin-top: 3cm;
+  display: flex;
+}
+.stream{
+    display: flex;
+    border: 2px solid;
+    width: 15cm;
+    height:4.3cm;
+    border-radius: 10px;
+    padding: 1cm;
+    background-color: cornflowerblue;
+    border: none;
+}
+#anime{
+width: 15cm;
+height: 10cm;
+
+}
+#anchor{
+    width: 2cm;
+    height: 2cm;
+    border-radius: 20px;
+}
+#join{
+    width: 3cm;
+    height: 1cm;
+    background-color: rgb(230, 81, 81);
+    border: none;
+    border-radius: 10px;
+}
+.helping{
+    text-align: center;
+    margin-top: 3cm;
+}
+#phone{
+    width: 3cm;
+    height: 3cm;
+}
+#know{
+    width: 4cm;
+    height: 1cm;
+    background-color: rgb(10, 8, 24);
+    color: white;
+    border-radius: 10px;
+}
+#english{
+    margin-left: 2cm;
+}
+#language{
+    margin-left: 1cm;  
+}
+#arrow{
+    width: 2cm;
+    height: 2cm;
+}
+#login{
+    width: 6.5cm;
+    height: 1.5cm;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.solutions{
+    display: flex;
+    gap: 3cm;
+}
+#signup{
+    width: 6.5cm;
+    height: 1.5cm;
+    border: none;
+    border-radius: 10px; 
+    background-color: rgb(230, 81, 81);
+}
+.designer{
+    padding: 1cm;
+    width: 8cm;
+    height: 1.5cm;
+    background-color: wheat;
+    border-radius: 18px;
+    
+}
+.language-english{
+    padding: 1cm;
+    width: 8cm;
+    height: 1.5cm;
+    background-color: wheat;
+    border-radius: 18px;  
+}
+.settings{
+    rotate: 6deg;
+    width: 13cm;
+    height: 15cm;
+    padding: 2cm;
+    border-radius: 10px;
+    background-color: beige;
+
+}
+#blackwoman{
+    width: 3cm;
+    height: 3cm;
+    border-radius: 50px;
+    
+}
+.angel{
+    display: flex;
+    gap: 1.5cm;
+}
+#jorina{
+   margin-left: 2.2cm;
+    font-weight: bolder;
+}
+.social{
+    rotate: 6deg;
+    width: 11cm;
+    height: 10cm;
+    padding: 2cm;
+    border-radius: 10px;
+    background-color: beige;   
+}
+#clients{
+    text-align: center;
+}
+.business{
+    display: flex;
+    gap:4cm ;
+}
+#star{
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
