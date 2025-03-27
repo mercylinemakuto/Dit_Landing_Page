@@ -13,6 +13,17 @@
     width: 3cm;
     height: 1cm;
     border-radius: 10px;
+    margin-left: 2cm;
+}
+#click{
+    font-weight: bolder;
+    font-size: 50px;
+}
+#logging-in{
+    width: 3cm;
+    height: 1cm;
+    border-radius: 10px;
+    border: none;
 }
 .fa-brands{
     color:black;
@@ -20,7 +31,7 @@
 }
 .container{
     padding: 3cm;
-    background-color: rgb(192, 211, 218);
+    background-color: rgb(222, 230, 235);
 }
 #appstore{
  background-color: rgb(11, 11, 31);   
@@ -66,7 +77,13 @@ border-radius: 0.1cm;
     height: 2cm;
     background-color: cornflowerblue;
     border-radius: 10px;
-    padding: 0;
+    padding: 0.8cm;
+}
+#dit{
+    width: 1cm;
+    height: 1cm;
+   
+
 }
 #speed{
     border: 2px solid;
@@ -114,9 +131,7 @@ margin-left: 2cm;
     text-decoration: none;
     color: black;   
 }
-#sign{
-    margin-left: 2cm;
-}
+
 #fa-brands fa-google-play{
     color:black;
 }
@@ -153,27 +168,29 @@ margin-left: 2cm;
 }
 #business{
     text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
 }
 
 #microsoft{
-width: 1.5cm;
-height: 1.5cm;
+width: 4cm;
+height: 2cm;
 }
 #trello{
-    width: 1.1cm;
-    height:1.1cm;
+    width: 3cm;
+    height:1.7cm;
 }
 #google{
-    width: 1.5cm;
-    height: 1cm;
+    width: 2.5cm;
+    height: 1.5cm;
 }
 #dropbox{
-    width: 1.2cm;
-    height: 1cm;
+    width: 4.5cm;
+    height: 2cm;
 }
 #slack{
-    width: 1.5cm;
-    height: 1.5cm;
+    width: 4cm;
+    height: 2cm;
 }
 .support-transfer{
     display: flex;
@@ -183,7 +200,25 @@ height: 1.5cm;
 .Interface{
     margin-top: 4cm;
 }
-#product{
+#okay{
+    font-size: 35px;
+    font-weight: lighter;
+}
+#dit-numbers{
+    font-size: 40px;
+    text-align: center;  
+}
+#easy{
+    font-size: 30px;
+}
+#secured{
+    font-size: 30px;
+}
+#support{
+    font-size: 30px;
+}
+#product-work{
+    font-size: 40px;
     text-align: center;
 }
 .downloads{
@@ -194,6 +229,9 @@ height: 1.5cm;
     width: 2cm;
     height: 1cm;
     border-radius: 10px;
+}
+#feather{
+    margin-left: 1cm;
 }
 #watch{
     width: 3.5cm;
@@ -207,20 +245,22 @@ height: 1.5cm;
 .lorem-ipsum{
   margin-top: 3cm;
   display: flex;
+  gap: 4cm;
 }
 .stream{
     display: flex;
     border: 2px solid;
-    width: 15cm;
-    height:4.3cm;
+    width: 12cm;
+    height:2.8cm;
     border-radius: 10px;
     padding: 1cm;
     background-color: cornflowerblue;
     border: none;
+    position: absolute;
 }
 #anime{
-width: 15cm;
-height: 10cm;
+width: 25cm;
+height: 18cm;
 
 }
 #anchor{
@@ -235,10 +275,25 @@ height: 10cm;
     border: none;
     border-radius: 10px;
 }
+.study{
+    position: absolute;
+    top: 60cm;
+}
+
 .helping{
     text-align: center;
     margin-top: 3cm;
 }
+#globally{
+    font-size: 40px;
+}
+#downloaded{
+    font-size: 40px;
+    font-weight: bolder;  
+}
+
+
+
 #phone{
     width: 3cm;
     height: 3cm;
